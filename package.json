@@ -1,0 +1,25 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node router.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FFerrufino/Login.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FFerrufino/Login/issues"
+  },
+  "homepage": "https://github.com/FFerrufino/Login#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
